@@ -1,0 +1,118 @@
+{
+  "main": {
+    "name":"Jean-Philippe GERARD",
+    "occupation":"développeur web",
+    "description":"Responsable Logistique et Musicien autodidacte acharné, je poursuis mon parcours en tant que développeur Web depuis Mars 2020 dans le cadre d'une reconversion professionnelle.",
+    "image":"profilepic.jpg",
+    "bio":"A la Wild Code School, j’apprends à maîtriser les langages JavaScript, Node.js, React.js, et les outils comme Git/ GitHub, afin de devenir Développeur Web. Je suis disponible à partir de Septembre 2020 pour un stage de 4 mois ou un emploi Développeur Web Junior. Motivé pour cette nouvelle vocation, ma créativité et mon expérience Client me permettront de répondre au plus vite à vos attentes.",
+    "contactmessage":"Pour plus de renseignements, n'hésitez pas à me contacter.",
+    "email": "jpgerard87@gmail.com",
+    "phone": "06.23.07.47.33",
+    "address":{
+      "city":"PARIS",
+      "zip": "75012"
+    },
+    "resumedownload":"https://drive.google.com/file/d/1Z8Vct5wkiIFrETJY_ejKvWkAjbkRJjYS/view?usp=sharing",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/jeanphilippegerard/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/jpaaaps/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/jpaaaps",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"Wild Code School",
+        "degree":"équivalent Bac+2, inscrit au RNCP.",
+        "graduated":"Août 2020",
+        "description":"Formation intensive de Web Development qui mène au titre professionnel Développeur Web et Web Mobile. Apprentissage des fondamentaux tels que Javascript, HTML/CSS, Git/github, Node.js, React.js..."
+      },
+      {
+        "school":"KEDGE Business School, programme EGC",
+        "degree":"Bachelor",
+        "graduated":"june 2010",
+        "description":"École de gestion et de commerce, programme en 3 ans avec stage à l'international."
+      }
+    ],
+    "work":[
+      {
+        "company":"DIGIXO",
+        "title":"Responsable Logistique",
+        "years":"Décembre 2017 - Mars 2020",
+        "description":"Gestion des stocks et des commandes : Approvisionnement et Organisation du stock. Management de 2 personnes."
+      },
+      {
+        "company":"STAR’S MUSIQUE",
+        "title":"Adjoint Logistique",
+        "years":"2017 (CDD - 6 mois)",
+        "description":"Gestion des stocks et livraison auprès de 17 magasins de l’entreprise Music Business. Management de 2 personnes."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"70%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"70%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"MySQL",
+        "level":"50%"
+      },
+      {
+        "name":"Node.js",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Covid Run",
+        "category":"Jeu snake et un Morpion",
+        "image":"covidRun.jpg",
+        "url":"https://elegant-hypatia-f05ed3.netlify.app/"
+      },
+      {
+        "title":"Wild League Heroes",
+        "category":"2eme projet de groupe réalisé au cours de ma formation. Quiz sur les superhéros.",
+        "image":"wildLeagueHeroes.jpg",
+        "url":"https://wild-heroes-league.netlify.app/"
+      },
+      {
+        "title":"Mon Portfolio",
+        "category":"CV portfolio créé avec un template react",
+        "image":"resume-website.jpg",
+        "url":"https://github.com/Jpaaaps/my_portfolio"
+      },
+      {
+        "title":"Pimp Your Waste",
+        "category":"Projet en cours dans le cadre de ma formation.",
+        "image":"Pimp-Your-Waste-Logo.png",
+        "url":"https://www.pimpyourwaste.com/"
+      }
+    ]
+  }
+}
