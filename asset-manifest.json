@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Jpaaaps/my_portfolio/static/css/main.5facb584.chunk.css",
+    "main.js": "/Jpaaaps/my_portfolio/static/js/main.d49a174c.chunk.js",
+    "main.js.map": "/Jpaaaps/my_portfolio/static/js/main.d49a174c.chunk.js.map",
+    "runtime-main.js": "/Jpaaaps/my_portfolio/static/js/runtime-main.843325fc.js",
+    "runtime-main.js.map": "/Jpaaaps/my_portfolio/static/js/runtime-main.843325fc.js.map",
+    "static/js/2.01b6c9ae.chunk.js": "/Jpaaaps/my_portfolio/static/js/2.01b6c9ae.chunk.js",
+    "static/js/2.01b6c9ae.chunk.js.map": "/Jpaaaps/my_portfolio/static/js/2.01b6c9ae.chunk.js.map",
+    "index.html": "/Jpaaaps/my_portfolio/index.html",
+    "precache-manifest.1396567ef7fb5694b6621e7cec1d0013.js": "/Jpaaaps/my_portfolio/precache-manifest.1396567ef7fb5694b6621e7cec1d0013.js",
+    "service-worker.js": "/Jpaaaps/my_portfolio/service-worker.js",
+    "static/css/main.5facb584.chunk.css.map": "/Jpaaaps/my_portfolio/static/css/main.5facb584.chunk.css.map",
+    "static/js/2.01b6c9ae.chunk.js.LICENSE.txt": "/Jpaaaps/my_portfolio/static/js/2.01b6c9ae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.843325fc.js",
+    "static/js/2.01b6c9ae.chunk.js",
+    "static/css/main.5facb584.chunk.css",
+    "static/js/main.d49a174c.chunk.js"
+  ]
+}
